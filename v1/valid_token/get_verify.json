@@ -1,0 +1,42 @@
+{
+  "data": {
+    "info": {
+      "id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
+      "email": "muhammadyusuf931@gmail.com",
+      "full_name": "M Yusuf",
+      "uid": "203",
+      "provider": "identitas",
+      "avatar": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/aD3e0KK_460s.jpg",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_aD3e0KK_460s.jpg"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_square_aD3e0KK_460s.jpg"
+        },
+        "medium": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_aD3e0KK_460s.jpg"
+        },
+        "medium_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_square_aD3e0KK_460s.jpg"
+        }
+      },
+      "is_admin": true,
+      "is_moderator": false,
+      "cluster": null,
+      "vote_preference": 2,
+      "political_party": null,
+      "verified": true,
+      "twitter": true,
+      "facebook": true
+    },
+    "credential": {
+      "access_token": "90e502bbd5891880ea48b34b9b0342befec114f3205e930e02b69efa545d4b3b",
+      "scopes": [],
+      "token_type": "bearer",
+      "expires_in": 2592000,
+      "refresh_token": "1463993b311a819700f7b044836d60dc948513c074a9af0ae29273238fbbf51d",
+      "created_at": 1549969600
+    }
+  }
+}

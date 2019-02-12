@@ -1,0 +1,10 @@
+{
+  "data": {
+    "access_token": "90e502bbd5891880ea48b34b9b0342befec114f3205e930e02b69efa545d4b3b",
+    "scopes": [],
+    "token_type": "bearer",
+    "expires_in": 2592000,
+    "refresh_token": "1463993b311a819700f7b044836d60dc948513c074a9af0ae29273238fbbf51d",
+    "created_at": 1549969600
+  }
+}
