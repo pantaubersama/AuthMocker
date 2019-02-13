@@ -1,0 +1,79 @@
+{
+    "data": {
+      "cluster": {
+        "id": "68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a",
+        "name": "apaapaan",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a/RackMultipart20190131-6410-c9uw5q.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a/thumbnail_RackMultipart20190131-6410-c9uw5q.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a/thumbnail_square_RackMultipart20190131-6410-c9uw5q.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a/medium_RackMultipart20190131-6410-c9uw5q.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/68a7a186-65a1-405a-9bb4-1a1d0f5b4d2a/medium_square_RackMultipart20190131-6410-c9uw5q.jpg"
+          }
+        },
+        "is_displayed": false,
+        "category_id": "f94a6f37-34e1-4c85-ae4a-9f70c203a8a5",
+        "category": {
+          "id": "f94a6f37-34e1-4c85-ae4a-9f70c203a8a5",
+          "name": "apa ya",
+          "description": null,
+          "created_at": "2019-01-23T23:13:30.107Z",
+          "creator": {
+            "id": "e821c551-2961-4202-8c34-3665d0387ffd",
+            "email": "allan@extrainteger.com",
+            "first_name": "Allan",
+            "last_name": "Bm",
+            "uid": "19",
+            "provider": "identitas",
+            "created_at": "2019-01-02T12:27:40.640Z",
+            "updated_at": "2019-01-23T23:06:49.829Z",
+            "scopes": null,
+            "deleted_at": null,
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e821c551-2961-4202-8c34-3665d0387ffd/IMG_20180927_143844.jpg",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e821c551-2961-4202-8c34-3665d0387ffd/thumbnail_IMG_20180927_143844.jpg"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e821c551-2961-4202-8c34-3665d0387ffd/thumbnail_square_IMG_20180927_143844.jpg"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e821c551-2961-4202-8c34-3665d0387ffd/medium_IMG_20180927_143844.jpg"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e821c551-2961-4202-8c34-3665d0387ffd/medium_square_IMG_20180927_143844.jpg"
+              }
+            },
+            "username": "null",
+            "about": "",
+            "location": "",
+            "education": "",
+            "occupation": "",
+            "vote_preference": null,
+            "full_name": "Allan Bm",
+            "political_party_id": null,
+            "invite_code": null,
+            "tmp_cluster_id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa"
+          }
+        },
+        "description": "apaapaapa",
+        "members_count": 0,
+        "is_eligible": false,
+        "magic_link": "b2e234ba2786",
+        "is_link_active": false,
+        "status": "requested",
+        "requester": {
+          "id": "92a39b93-59fd-49ba-a311-b15b86d644e6",
+          "full_name": "Ashar Mubasir"
+        },
+        "created_at": "2019-01-31T07:53:38.862Z"
+      }
+    }
+}

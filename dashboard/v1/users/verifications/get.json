@@ -1,0 +1,75 @@
+{
+    "data": {
+      "users": [
+        {
+          "id": "01c39ca9-0b4a-4503-98bc-82be46698dd6",
+          "email": "hanif+21@extrainteger.com",
+          "full_name": "Hanif21 Dummy",
+          "username": "Hanif21",
+          "avatar": {
+            "url": null,
+            "thumbnail": {
+              "url": null
+            },
+            "thumbnail_square": {
+              "url": null
+            },
+            "medium": {
+              "url": null
+            },
+            "medium_square": {
+              "url": null
+            }
+          },
+          "verified": false,
+          "about": "",
+          "twitter": false,
+          "facebook": false,
+          "cluster": {
+            "id": "1882f49d-9de4-4d56-b9f8-5444e494b3f3",
+            "name": "Tim Kampanye Nasional",
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/1882f49d-9de4-4d56-b9f8-5444e494b3f3/avatar_team_1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/1882f49d-9de4-4d56-b9f8-5444e494b3f3/thumbnail_avatar_team_1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/1882f49d-9de4-4d56-b9f8-5444e494b3f3/thumbnail_square_avatar_team_1.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/1882f49d-9de4-4d56-b9f8-5444e494b3f3/medium_avatar_team_1.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/1882f49d-9de4-4d56-b9f8-5444e494b3f3/medium_square_avatar_team_1.png"
+              }
+            },
+            "is_displayed": true,
+            "category_id": null,
+            "category": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "created_at": null,
+              "creator": null
+            },
+            "description": "Susunan TKN Jokowi-Ma'ruf terdiri dari beberapa jabatan. Mulai dari Dewan Penasihat, Dewan Pengarah, Ketua TKN beserta wakil-wakilnya, Sekretaris TKN dan wakil-wakilnya, Bendahara hingga juru bicara.  Tim kampanye Jokowi-Ma'ruf juga memiliki 11 Direktorat yang masing-masing dipimpin pengurus partai pendukung. Serta ada juga beberapa pengurus partai yang berada di divisi tugas khusus.  Posisi dewan penasihat di TKN diisi sembilan Ketua Umum partai pendukung Jokowi-Ma'ruf. Mulai dari Megawati Soekarnoputri, Airlangga Hartarto, Muhaimin Iskandar, Surya Paloh, Romahurmuziy, Osman Sapta Oedang, Diaz Faisal Malik Hendropriyono, dan Grace Natalie.  Kemudian posisi dewan pengarah ditempati Wakil Presiden Jusuf Kalla (JK), Try Sutrisno, Puan Maharani, Pramono Anung Wibowo, Sri Mulyani, Agung Laksono, Akbar Tandjung, Dimyati Rais, Siswono Yudhohusodo, Suharso Monoarva, Sidarto tanusubroto, Laksamana TNI Purn Prof Marsetyo.  Sedangkan para Sekjen partai pendukung masing-masing duduk di posisi Wakil Ketua TKN dan akan membantu kinerja Erick Tohir sebagai Ketuanya.",
+            "members_count": 11,
+            "is_eligible": true,
+            "magic_link": "7a3c92fa5905",
+            "is_link_active": false,
+            "status": "approved",
+            "created_at": null
+          },
+          "status_verification": "requested",
+          "sent_at_verification": "2019-02-03T07:51:42.424Z"
+        }
+      ],
+      "meta": {
+        "pages": {
+          "total": 12,
+          "per_page": 1,
+          "page": 1
+        }
+      }
+    }
+}

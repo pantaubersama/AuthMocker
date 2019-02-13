@@ -1,0 +1,28 @@
+{
+    "data": {
+      "badge": {
+        "id": "48234a3a-9092-49bc-a03e-ddde85b82f5b",
+        "name": "Penyayang binatang",
+        "description": "Didapatkan ketika Anda sudah mempunyai kucing",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/48234a3a-9092-49bc-a03e-ddde85b82f5b/ruby.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/48234a3a-9092-49bc-a03e-ddde85b82f5b/thumbnail_ruby.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/48234a3a-9092-49bc-a03e-ddde85b82f5b/thumbnail_square_ruby.jpg"
+          }
+        },
+        "image_gray": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/48234a3a-9092-49bc-a03e-ddde85b82f5b/ruby.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/48234a3a-9092-49bc-a03e-ddde85b82f5b/thumbnail_ruby.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/48234a3a-9092-49bc-a03e-ddde85b82f5b/thumbnail_square_ruby.jpg"
+          }
+        },
+        "position": 0
+      }
+    }
+}

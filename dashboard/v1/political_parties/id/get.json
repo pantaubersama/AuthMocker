@@ -1,0 +1,24 @@
+{
+    "data": {
+      "political_party": {
+        "id": "69e936da-40d3-47da-ae92-a4c2be3560a6",
+        "name": "Partai Oranje",
+        "image": {
+          "url": null,
+          "thumbnail": {
+            "url": null
+          },
+          "thumbnail_square": {
+            "url": null
+          },
+          "medium": {
+            "url": null
+          },
+          "medium_square": {
+            "url": null
+          }
+        },
+        "number": 0
+      }
+    }
+}

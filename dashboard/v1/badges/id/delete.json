@@ -1,0 +1,31 @@
+{
+    "data": {
+      "status": true,
+      "badge": {
+        "id": "fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be",
+        "name": "Penyayang Kucing 2",
+        "description": "Didapatkan ketika Anda sudah mempunyai kucing",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/ruby.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/thumbnail_ruby.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/thumbnail_square_ruby.jpg"
+          }
+        },
+        "image_gray": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/ruby.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/thumbnail_ruby.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/fb1fa7a9-d4e5-4b47-8119-42bfb0e6d5be/thumbnail_square_ruby.jpg"
+          }
+        },
+        "position": 0,
+        "code": "penyayangkucing2",
+        "namespace": "badge_profile"
+      }
+    }
+}

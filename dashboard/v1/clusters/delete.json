@@ -1,21 +1,22 @@
 {
     "data": {
+      "status": true,
       "cluster": {
-        "id": "8e77bc97-28e3-4290-ac35-d8b27e988079",
-        "name": "kid",
+        "id": "4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e",
+        "name": "tes",
         "image": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/8e77bc97-28e3-4290-ac35-d8b27e988079/Screenshot_20190128-190039.jpg",
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e/RackMultipart20190205-26331-qwuh3j.png",
           "thumbnail": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/8e77bc97-28e3-4290-ac35-d8b27e988079/thumbnail_Screenshot_20190128-190039.jpg"
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e/thumbnail_RackMultipart20190205-26331-qwuh3j.png"
           },
           "thumbnail_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/8e77bc97-28e3-4290-ac35-d8b27e988079/thumbnail_square_Screenshot_20190128-190039.jpg"
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e/thumbnail_square_RackMultipart20190205-26331-qwuh3j.png"
           },
           "medium": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/8e77bc97-28e3-4290-ac35-d8b27e988079/medium_Screenshot_20190128-190039.jpg"
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e/medium_RackMultipart20190205-26331-qwuh3j.png"
           },
           "medium_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/8e77bc97-28e3-4290-ac35-d8b27e988079/medium_square_Screenshot_20190128-190039.jpg"
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/4afcaf7f-d5f7-4b8c-a943-197b7a9ae21e/medium_square_RackMultipart20190205-26331-qwuh3j.png"
           }
         },
         "is_displayed": false,
@@ -63,13 +64,13 @@
             "tmp_cluster_id": "8528a482-01e7-44c9-a99f-d536a4f6882e"
           }
         },
-        "description": "kis",
+        "description": "Tes",
         "members_count": 0,
         "is_eligible": false,
-        "magic_link": "baa474584ecb",
+        "magic_link": "b80e597d8fc4",
         "is_link_active": false,
-        "status": "rejected",
-        "created_at": "2019-01-28T18:58:27.736Z"
+        "status": "requested",
+        "created_at": "2019-01-23T13:04:45.477Z"
       }
     }
 }

@@ -1,0 +1,71 @@
+{
+    "data": {
+      "user": {
+        "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+        "email": "helmy@extrainteger.com",
+        "full_name": "Yunan Helmy",
+        "uid": "2",
+        "provider": "identitas",
+        "avatar": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/ruby.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_ruby.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_ruby.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_ruby.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_ruby.jpg"
+          }
+        },
+        "is_admin": true,
+        "is_moderator": false,
+        "cluster": null,
+        "vote_preference": 2,
+        "political_party": {
+          "id": "0fdb20fa-52fe-4947-9a4a-911c22f647a4",
+          "name": "PARTAI SIRA",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/0fdb20fa-52fe-4947-9a4a-911c22f647a4/sira.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/0fdb20fa-52fe-4947-9a4a-911c22f647a4/thumbnail_sira.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/0fdb20fa-52fe-4947-9a4a-911c22f647a4/thumbnail_square_sira.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/0fdb20fa-52fe-4947-9a4a-911c22f647a4/medium_sira.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/0fdb20fa-52fe-4947-9a4a-911c22f647a4/medium_square_sira.png"
+            }
+          },
+          "number": 16
+        },
+        "verified": false,
+        "twitter": false,
+        "facebook": false,
+        "username": "gembel",
+        "about": "Aku cuma test saja",
+        "location": "Yogyakarta",
+        "education": "Universitas Golek Mertuo",
+        "occupation": "Juru Ketik",
+        "informant": {
+          "user_id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+          "identity_number": "337501989812381",
+          "pob": "Pekalongan",
+          "dob": "1990-06-08",
+          "gender": 1,
+          "gender_str": "Laki-laki",
+          "occupation": "Juru Masak",
+          "nationality": "Indonesia",
+          "address": "Jalan XYZ tes 1",
+          "phone_number": "087612376172"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,29 @@
+{
+    "data": {
+      "preference": {
+        "teams": [
+          {
+            "id": "1",
+            "title": "Tim Jokowi - Ma'ruf",
+            "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_1.jpg",
+            "total": 6,
+            "percentage": 4.14
+          },
+          {
+            "id": "2",
+            "title": "Tim Prabowo - Sandi",
+            "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_2.jpg",
+            "total": 5,
+            "percentage": 3.45
+          },
+          {
+            "id": "0",
+            "title": "Belum Menentukan Pilihan",
+            "avatar": "https://s3-ap-southeast-1.amazonaws.com/pantau-bersama/assets/teams/avatar_team_0.jpg",
+            "total": 134,
+            "percentage": 92.41
+          }
+        ]
+      }
+    }
+}
