@@ -1,0 +1,56 @@
+{
+    "data": {
+      "categories": [
+        {
+          "id": "cee2c890-7ec9-4811-9dee-748f1a8b24ec",
+          "name": "Cluster Cat",
+          "description": "Lorem iosum dolor",
+          "created_at": "2019-02-12T14:47:00.101Z",
+          "creator": {
+            "id": "4afb8e2e-2800-4fc8-8087-c9c3de63b28f",
+            "email": "bayu@extrainteger.com",
+            "first_name": "bayu",
+            "last_name": "exi",
+            "uid": "73",
+            "provider": "identitas",
+            "created_at": "2018-12-26T04:19:24.838Z",
+            "updated_at": "2019-02-12T08:50:04.703Z",
+            "scopes": null,
+            "deleted_at": null,
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/img-20190125-wa0005.jpg",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/thumbnail_img-20190125-wa0005.jpg"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/thumbnail_square_img-20190125-wa0005.jpg"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/medium_img-20190125-wa0005.jpg"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/4afb8e2e-2800-4fc8-8087-c9c3de63b28f/medium_square_img-20190125-wa0005.jpg"
+              }
+            },
+            "username": "bayuexi",
+            "about": "sang Tempe Bahorok",
+            "location": "Yogyakarta",
+            "education": "Autodidak",
+            "occupation": "Wiraawasta dek",
+            "vote_preference": 2,
+            "full_name": "bayu exi",
+            "political_party_id": "121f8bb2-0e40-4a88-ae68-152862469585",
+            "invite_code": null,
+            "tmp_cluster_id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa"
+          }
+        }
+      ],
+      "meta": {
+        "pages": {
+          "total": 68,
+          "per_page": 1,
+          "page": 1
+        }
+      }
+    }
+}

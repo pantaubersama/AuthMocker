@@ -1,0 +1,16 @@
+{
+    "data": {
+      "informant": {
+        "user_id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+        "identity_number": "337501989812381",
+        "pob": "Pekalongan",
+        "dob": "1990-06-08",
+        "gender": 1,
+        "gender_str": "Laki-laki",
+        "occupation": "Random",
+        "nationality": "Indonesia",
+        "address": "Jalan XYZ tes 1",
+        "phone_number": "087612376172"
+      }
+    }
+}

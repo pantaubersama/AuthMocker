@@ -1,0 +1,1169 @@
+{
+    "data": {
+      "achieved_badges": [
+        {
+          "achieved_id": "7944b7ae-9b9a-405c-bd53-158bcdc575da",
+          "badge": {
+            "id": "ab27e5a2-0ace-4b05-ad58-ab8a51e618a4",
+            "name": "Kuis 10",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/quiz-silver-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/thumbnail_quiz-silver-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/thumbnail_square_quiz-silver-2.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/quiz-silver-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/thumbnail_quiz-silver-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ab27e5a2-0ace-4b05-ad58-ab8a51e618a4/thumbnail_square_quiz-silver-2.png"
+              }
+            },
+            "position": 25,
+            "code": "kuis10",
+            "namespace": "kuis"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/7944b7ae-9b9a-405c-bd53-158bcdc575da/7944b7ae-9b9a-405c-bd53-158bcdc575da.png"
+          }
+        },
+        {
+          "achieved_id": "449c09b0-67a4-402b-a5cd-55ecd2f8e80a",
+          "badge": {
+            "id": "664d4d86-11ad-4f16-a31b-6a79d965f502",
+            "name": "Sobat Pantau !",
+            "description": "Diperoleh setelah menggunakan aplikasi pantau bersama",
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/664d4d86-11ad-4f16-a31b-6a79d965f502/pantau-badge.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/664d4d86-11ad-4f16-a31b-6a79d965f502/thumbnail_pantau-badge.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/664d4d86-11ad-4f16-a31b-6a79d965f502/thumbnail_square_pantau-badge.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/664d4d86-11ad-4f16-a31b-6a79d965f502/pantau-badge.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/664d4d86-11ad-4f16-a31b-6a79d965f502/thumbnail_pantau-badge.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/664d4d86-11ad-4f16-a31b-6a79d965f502/thumbnail_square_pantau-badge.png"
+              }
+            },
+            "position": 1,
+            "code": "pantaubersama",
+            "namespace": "pantau_bersama"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/449c09b0-67a4-402b-a5cd-55ecd2f8e80a/449c09b0-67a4-402b-a5cd-55ecd2f8e80a.png"
+          }
+        },
+        {
+          "achieved_id": "0ceab60a-b900-4bb7-9d14-c08135711458",
+          "badge": {
+            "id": "163e696f-6ace-406e-99f8-60ad9c0454c7",
+            "name": "Lengkapi Biodata",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/163e696f-6ace-406e-99f8-60ad9c0454c7/completed-profile.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/163e696f-6ace-406e-99f8-60ad9c0454c7/thumbnail_completed-profile.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/163e696f-6ace-406e-99f8-60ad9c0454c7/thumbnail_square_completed-profile.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/163e696f-6ace-406e-99f8-60ad9c0454c7/completed-profile.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/163e696f-6ace-406e-99f8-60ad9c0454c7/thumbnail_completed-profile.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/163e696f-6ace-406e-99f8-60ad9c0454c7/thumbnail_square_completed-profile.png"
+              }
+            },
+            "position": 8,
+            "code": "biodata",
+            "namespace": "profile"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/0ceab60a-b900-4bb7-9d14-c08135711458/0ceab60a-b900-4bb7-9d14-c08135711458.png"
+          }
+        },
+        {
+          "achieved_id": "a2f800d3-098f-4d29-b4fc-23e9832c026d",
+          "badge": {
+            "id": "458203d2-de51-4723-8479-8da5a9e85159",
+            "name": "Beta Tester",
+            "description": "Kamu berpartisipasi dalam beta testing",
+            "image": {
+              "url": null,
+              "thumbnail": {
+                "url": null
+              },
+              "thumbnail_square": {
+                "url": null
+              }
+            },
+            "image_gray": {
+              "url": null,
+              "thumbnail": {
+                "url": null
+              },
+              "thumbnail_square": {
+                "url": null
+              }
+            },
+            "position": 1,
+            "code": null,
+            "namespace": null
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/a2f800d3-098f-4d29-b4fc-23e9832c026d/a2f800d3-098f-4d29-b4fc-23e9832c026d.png"
+          }
+        },
+        {
+          "achieved_id": "90bf93c5-0cbf-49c6-b316-8d4a9a1df403",
+          "badge": {
+            "id": "7f5e7ed0-61fe-4907-a170-2d6814aa74f4",
+            "name": "Kuis 5",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/quiz-silver-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/thumbnail_quiz-silver-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/thumbnail_square_quiz-silver-1.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/quiz-silver-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/thumbnail_quiz-silver-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/7f5e7ed0-61fe-4907-a170-2d6814aa74f4/thumbnail_square_quiz-silver-1.png"
+              }
+            },
+            "position": 24,
+            "code": "kuis5",
+            "namespace": "kuis"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/90bf93c5-0cbf-49c6-b316-8d4a9a1df403/90bf93c5-0cbf-49c6-b316-8d4a9a1df403.png"
+          }
+        },
+        {
+          "achieved_id": "68d1733e-6194-40cc-a1dd-e5fe56ed7871",
+          "badge": {
+            "id": "a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6",
+            "name": "Tanya 10",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/ask2-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/thumbnail_ask2-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/thumbnail_square_ask2-bronze-2.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/ask2-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/thumbnail_ask2-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/a7fd8b70-1ef0-4e3a-bced-39ab73ea39f6/thumbnail_square_ask2-bronze-2.png"
+              }
+            },
+            "position": 15,
+            "code": "tanya10",
+            "namespace": "tanya"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/68d1733e-6194-40cc-a1dd-e5fe56ed7871/68d1733e-6194-40cc-a1dd-e5fe56ed7871.png"
+          }
+        },
+        {
+          "achieved_id": "89b215b5-0c8d-4e7d-a2b8-48a63033a429",
+          "badge": {
+            "id": "87bbaad5-5e29-4825-a8ac-939ea5e0f97d",
+            "name": "Kuis 1",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/quiz-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/thumbnail_quiz-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/thumbnail_square_quiz-bronze-1.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/quiz-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/thumbnail_quiz-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/87bbaad5-5e29-4825-a8ac-939ea5e0f97d/thumbnail_square_quiz-bronze-1.png"
+              }
+            },
+            "position": 22,
+            "code": "kuis1",
+            "namespace": "kuis"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/89b215b5-0c8d-4e7d-a2b8-48a63033a429/89b215b5-0c8d-4e7d-a2b8-48a63033a429.png"
+          }
+        },
+        {
+          "achieved_id": "a02b14d3-5193-4ae0-b79b-dbc8c241a428",
+          "badge": {
+            "id": "e7066733-6016-4775-834c-46591710fff5",
+            "name": "Kuis 3",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/e7066733-6016-4775-834c-46591710fff5/quiz-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/e7066733-6016-4775-834c-46591710fff5/thumbnail_quiz-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/e7066733-6016-4775-834c-46591710fff5/thumbnail_square_quiz-bronze-2.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/e7066733-6016-4775-834c-46591710fff5/quiz-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/e7066733-6016-4775-834c-46591710fff5/thumbnail_quiz-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/e7066733-6016-4775-834c-46591710fff5/thumbnail_square_quiz-bronze-2.png"
+              }
+            },
+            "position": 23,
+            "code": "kuis3",
+            "namespace": "kuis"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/a02b14d3-5193-4ae0-b79b-dbc8c241a428/a02b14d3-5193-4ae0-b79b-dbc8c241a428.png"
+          }
+        },
+        {
+          "achieved_id": "516cc23b-8d60-4133-b2ae-407ca4e47a53",
+          "badge": {
+            "id": "2d556de5-102c-4c27-8a5a-71304783a35a",
+            "name": "Janji Politik 1",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/2d556de5-102c-4c27-8a5a-71304783a35a/janpol-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/2d556de5-102c-4c27-8a5a-71304783a35a/thumbnail_janpol-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/2d556de5-102c-4c27-8a5a-71304783a35a/thumbnail_square_janpol-bronze-1.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/2d556de5-102c-4c27-8a5a-71304783a35a/janpol-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/2d556de5-102c-4c27-8a5a-71304783a35a/thumbnail_janpol-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/2d556de5-102c-4c27-8a5a-71304783a35a/thumbnail_square_janpol-bronze-1.png"
+              }
+            },
+            "position": 10,
+            "code": "janji1",
+            "namespace": "janji_politik"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/516cc23b-8d60-4133-b2ae-407ca4e47a53/516cc23b-8d60-4133-b2ae-407ca4e47a53.png"
+          }
+        },
+        {
+          "achieved_id": "807c6491-9eae-4be2-b90b-de7a8fb8b6b0",
+          "badge": {
+            "id": "95b07edf-040b-40f7-b14b-2392048da361",
+            "name": "Tanya 1",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/95b07edf-040b-40f7-b14b-2392048da361/ask2-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/95b07edf-040b-40f7-b14b-2392048da361/thumbnail_ask2-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/95b07edf-040b-40f7-b14b-2392048da361/thumbnail_square_ask2-bronze-1.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/95b07edf-040b-40f7-b14b-2392048da361/ask2-bronze-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/95b07edf-040b-40f7-b14b-2392048da361/thumbnail_ask2-bronze-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/95b07edf-040b-40f7-b14b-2392048da361/thumbnail_square_ask2-bronze-1.png"
+              }
+            },
+            "position": 14,
+            "code": "tanya1",
+            "namespace": "tanya"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/807c6491-9eae-4be2-b90b-de7a8fb8b6b0/807c6491-9eae-4be2-b90b-de7a8fb8b6b0.png"
+          }
+        },
+        {
+          "achieved_id": "22f72966-453f-4aec-9c7d-0aa80d9aa990",
+          "badge": {
+            "id": "21db1068-b176-46f6-9f9b-90e54f0209aa",
+            "name": "Janji Politik 5",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/janpol-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_janpol-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_square_janpol-bronze-2.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/janpol-bronze-2.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_janpol-bronze-2.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_square_janpol-bronze-2.png"
+              }
+            },
+            "position": 11,
+            "code": "janji5",
+            "namespace": "janji_politik"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/22f72966-453f-4aec-9c7d-0aa80d9aa990/22f72966-453f-4aec-9c7d-0aa80d9aa990.png"
+          }
+        },
+        {
+          "achieved_id": "cf27b634-86e4-4b38-bd2f-a5caac557caf",
+          "badge": {
+            "id": "ca19bc07-667a-46c8-a9b0-fadf5a81694c",
+            "name": "Tanya 30",
+            "description": null,
+            "image": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ca19bc07-667a-46c8-a9b0-fadf5a81694c/ask2-silver-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ca19bc07-667a-46c8-a9b0-fadf5a81694c/thumbnail_ask2-silver-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/ca19bc07-667a-46c8-a9b0-fadf5a81694c/thumbnail_square_ask2-silver-1.png"
+              }
+            },
+            "image_gray": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ca19bc07-667a-46c8-a9b0-fadf5a81694c/ask2-silver-1.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ca19bc07-667a-46c8-a9b0-fadf5a81694c/thumbnail_ask2-silver-1.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/ca19bc07-667a-46c8-a9b0-fadf5a81694c/thumbnail_square_ask2-silver-1.png"
+              }
+            },
+            "position": 16,
+            "code": "tanya30",
+            "namespace": "tanya"
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/cf27b634-86e4-4b38-bd2f-a5caac557caf/cf27b634-86e4-4b38-bd2f-a5caac557caf.png"
+          }
+        }
+      ],
+      "badges": [
+        {
+          "id": "80580d05-92ff-4af7-906f-5cfea926b53f",
+          "name": "Gembel",
+          "description": "Diperoleh jika kamu tidak punya uang",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/80580d05-92ff-4af7-906f-5cfea926b53f/RackMultipart20190124-23126-15jqssw.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/80580d05-92ff-4af7-906f-5cfea926b53f/thumbnail_RackMultipart20190124-23126-15jqssw.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/80580d05-92ff-4af7-906f-5cfea926b53f/thumbnail_square_RackMultipart20190124-23126-15jqssw.png"
+            }
+          },
+          "image_gray": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/80580d05-92ff-4af7-906f-5cfea926b53f/RackMultipart20190124-28087-p7aayk.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/80580d05-92ff-4af7-906f-5cfea926b53f/thumbnail_RackMultipart20190124-28087-p7aayk.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/80580d05-92ff-4af7-906f-5cfea926b53f/thumbnail_square_RackMultipart20190124-28087-p7aayk.png"
+            }
+          },
+          "position": 1,
+          "code": "gembel",
+          "namespace": "pantau_bersama"
+        }
+      ],
+      "meta": {
+        "pages": {
+          "total": 22,
+          "per_page": 1,
+          "page": 1
+        }
+      }
+    }
+}

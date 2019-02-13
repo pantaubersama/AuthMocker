@@ -1,0 +1,33 @@
+{
+    "data": {
+      "cluster": {
+        "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+        "name": "Badan Pemenangan Nasional",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+          }
+        },
+        "is_displayed": true,
+        "category_id": null,
+        "category": null,
+        "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+        "members_count": 13,
+        "is_eligible": true,
+        "magic_link": "2296c05a4040",
+        "is_link_active": false,
+        "status": "approved",
+        "created_at": "2018-12-22T14:41:58.787Z"
+      }
+    }
+}

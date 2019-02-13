@@ -1,0 +1,11 @@
+{
+    "data": {
+      "user": {
+        "user_id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+        "approved": false,
+        "step": 4,
+        "next_step": 5,
+        "is_verified": false
+      }
+    }
+}

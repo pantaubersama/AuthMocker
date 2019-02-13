@@ -1,0 +1,53 @@
+{
+    "data": {
+      "political_parties": [
+        {
+          "id": "121f8bb2-0e40-4a88-ae68-152862469585",
+          "name": "PARTAI KEBANGKITAN BANGSA",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/121f8bb2-0e40-4a88-ae68-152862469585/pkb.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/121f8bb2-0e40-4a88-ae68-152862469585/thumbnail_pkb.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/121f8bb2-0e40-4a88-ae68-152862469585/thumbnail_square_pkb.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/121f8bb2-0e40-4a88-ae68-152862469585/medium_pkb.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/121f8bb2-0e40-4a88-ae68-152862469585/medium_square_pkb.png"
+            }
+          },
+          "number": 1
+        },
+        {
+          "id": "55424be6-0f6c-444b-acc8-72435d09589f",
+          "name": "PARTAI GERAKAN INDONESIA RAYA",
+          "image": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/55424be6-0f6c-444b-acc8-72435d09589f/gerindra.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/55424be6-0f6c-444b-acc8-72435d09589f/thumbnail_gerindra.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/55424be6-0f6c-444b-acc8-72435d09589f/thumbnail_square_gerindra.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/55424be6-0f6c-444b-acc8-72435d09589f/medium_gerindra.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/political_party/image/55424be6-0f6c-444b-acc8-72435d09589f/medium_square_gerindra.png"
+            }
+          },
+          "number": 2
+        }
+      ],
+      "meta": {
+        "pages": {
+          "total": 10,
+          "per_page": 2,
+          "page": 1
+        }
+      }
+    }
+}

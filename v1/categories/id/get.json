@@ -1,0 +1,47 @@
+{
+    "data": {
+      "category": {
+        "id": "6bb5980c-73f6-4b78-aff2-4e1b639a5592",
+        "name": "Klub Mancing",
+        "description": "Klub memanjing Jogja",
+        "created_at": "2019-02-13T02:55:05.865Z",
+        "creator": {
+          "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+          "email": "helmy@extrainteger.com",
+          "first_name": "Yunan",
+          "last_name": "Helmy",
+          "uid": "2",
+          "provider": "identitas",
+          "created_at": "2018-12-19T05:13:18.662Z",
+          "updated_at": "2019-02-12T10:16:28.082Z",
+          "scopes": null,
+          "deleted_at": null,
+          "avatar": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+            }
+          },
+          "username": "yunanhelmy",
+          "about": "Ini cuma Akun testing",
+          "location": "Yogyakarta",
+          "education": "Universitas Golek Mertuo",
+          "occupation": "Juru Masak",
+          "vote_preference": 3,
+          "full_name": "Yunan Helmy",
+          "political_party_id": "0fdb20fa-52fe-4947-9a4a-911c22f647a4",
+          "invite_code": "237417c1e2",
+          "tmp_cluster_id": "1882f49d-9de4-4d56-b9f8-5444e494b3f3"
+        }
+      }
+    }
+}

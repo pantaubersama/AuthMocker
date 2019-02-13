@@ -1,0 +1,75 @@
+{
+    "data": {
+      "cluster": {
+        "id": "e15d95a9-59e1-40ed-bbaa-31a8c39886e8",
+        "name": "tes",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/pantau-ios-23012019200444.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/thumbnail_pantau-ios-23012019200444.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/thumbnail_square_pantau-ios-23012019200444.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/medium_pantau-ios-23012019200444.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/medium_square_pantau-ios-23012019200444.jpg"
+          }
+        },
+        "is_displayed": true,
+        "category_id": "f93336f2-e5f5-4e91-955b-b7cb58ada234",
+        "category": {
+          "id": "f93336f2-e5f5-4e91-955b-b7cb58ada234",
+          "name": "Hahaha",
+          "description": null,
+          "created_at": "2019-01-21T05:47:02.189Z",
+          "creator": {
+            "id": "cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75",
+            "email": "penya@extrainteger.com",
+            "first_name": "Pe",
+            "last_name": "Nya",
+            "uid": "217",
+            "provider": "identitas",
+            "created_at": "2019-01-02T09:26:28.856Z",
+            "updated_at": "2019-02-11T14:38:20.316Z",
+            "scopes": null,
+            "deleted_at": null,
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/hello.jpg",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_hello.jpg"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/thumbnail_square_hello.jpg"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_hello.jpg"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/cfe0f3fe-9c79-415f-96b7-d7f2cd79fb75/medium_square_hello.jpg"
+              }
+            },
+            "username": "penya",
+            "about": "babi",
+            "location": "hoho",
+            "education": "S3",
+            "occupation": "Nelayan",
+            "vote_preference": 1,
+            "full_name": "Pe Nya",
+            "political_party_id": "0fdb20fa-52fe-4947-9a4a-911c22f647a4",
+            "invite_code": null,
+            "tmp_cluster_id": "1882f49d-9de4-4d56-b9f8-5444e494b3f3"
+          }
+        },
+        "description": "Tes",
+        "members_count": 1,
+        "is_eligible": false,
+        "magic_link": "03a982b97acb",
+        "is_link_active": false,
+        "status": "approved",
+        "created_at": "2019-01-23T13:04:45.555Z"
+      }
+    }
+}

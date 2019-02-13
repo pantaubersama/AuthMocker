@@ -1,0 +1,107 @@
+{
+    "data": {
+      "achieved_badges": [
+        {
+          "achieved_id": "a2f800d3-098f-4d29-b4fc-23e9832c026d",
+          "badge": {
+            "id": "458203d2-de51-4723-8479-8da5a9e85159",
+            "name": "Beta Tester",
+            "description": "Kamu berpartisipasi dalam beta testing",
+            "image": {
+              "url": null,
+              "thumbnail": {
+                "url": null
+              },
+              "thumbnail_square": {
+                "url": null
+              }
+            },
+            "image_gray": {
+              "url": null,
+              "thumbnail": {
+                "url": null
+              },
+              "thumbnail_square": {
+                "url": null
+              }
+            },
+            "position": 1,
+            "code": null,
+            "namespace": null
+          },
+          "user": {
+            "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+            "email": "helmy@extrainteger.com",
+            "full_name": "Yunan Helmy",
+            "username": "yunanhelmy",
+            "avatar": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/js.png",
+              "thumbnail": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_js.png"
+              },
+              "thumbnail_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/thumbnail_square_js.png"
+              },
+              "medium": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_js.png"
+              },
+              "medium_square": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/c9242c5a-805b-4ef5-b3a7-2a7f25785cc8/medium_square_js.png"
+              }
+            },
+            "verified": true,
+            "about": "Ini cuma Akun testing",
+            "location": "Yogyakarta",
+            "education": "Universitas Golek Mertuo",
+            "occupation": "Juru Masak",
+            "twitter": false,
+            "facebook": false,
+            "cluster": {
+              "id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+              "name": "Badan Pemenangan Nasional",
+              "image": {
+                "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/avatar_team_2.png",
+                "thumbnail": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_avatar_team_2.png"
+                },
+                "thumbnail_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/thumbnail_square_avatar_team_2.png"
+                },
+                "medium": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_avatar_team_2.png"
+                },
+                "medium_square": {
+                  "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/fd6e5012-e593-45b0-84b3-dfa9c7cba9aa/medium_square_avatar_team_2.png"
+                }
+              },
+              "is_displayed": true,
+              "category_id": null,
+              "category": null,
+              "description": "Anggota Dewan Pembina Partai Gerindra, Fuad Bawazier, diketahui menjabat sebagai Direktur Konsolidasi Nasional. Ada pula mantan Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional Ferry Mursyidan Baldan sebagai Direktur Materi dan Debat. Sementara Wakil Ketua Dewan Pembina Partai Gerindra Hashim Djojohadikusumo menjadi Direktur Komunikasi dan Media.",
+              "members_count": 13,
+              "is_eligible": true,
+              "magic_link": "2296c05a4040",
+              "is_link_active": true,
+              "status": "approved",
+              "requester": {
+                "id": "c9242c5a-805b-4ef5-b3a7-2a7f25785cc8",
+                "full_name": "Yunan Helmy"
+              },
+              "created_at": "2018-12-22T14:41:58.787Z"
+            },
+            "created_at": "2018-12-19T05:13:18.662Z"
+          },
+          "image_result": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/achieved_badge/image_result/a2f800d3-098f-4d29-b4fc-23e9832c026d/a2f800d3-098f-4d29-b4fc-23e9832c026d.png"
+          }
+        }
+      ],
+      "meta": {
+        "pages": {
+          "total": 12,
+          "per_page": 1,
+          "page": 1
+        }
+      }
+    }
+}

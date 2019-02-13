@@ -1,0 +1,28 @@
+{
+    "data": {
+      "badge": {
+        "id": "21db1068-b176-46f6-9f9b-90e54f0209aa",
+        "name": "Janji Politik 5",
+        "description": null,
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/janpol-bronze-2.png",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_janpol-bronze-2.png"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_square_janpol-bronze-2.png"
+          }
+        },
+        "image_gray": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/janpol-bronze-2.png",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_janpol-bronze-2.png"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/badge/image_gray/21db1068-b176-46f6-9f9b-90e54f0209aa/thumbnail_square_janpol-bronze-2.png"
+          }
+        },
+        "position": 11
+      }
+    }
+}
