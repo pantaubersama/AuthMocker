@@ -1,0 +1,81 @@
+{
+  "data": {
+    "status": true,
+    "cluster": {
+      "id": "5e0efc97-c28c-4a3e-83b7-a3a76b32db38",
+      "name": "rspec",
+      "image": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/RackMultipart20190214-15847-o53zsg.jpg",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/thumbnail_RackMultipart20190214-15847-o53zsg.jpg"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/thumbnail_square_RackMultipart20190214-15847-o53zsg.jpg"
+        },
+        "medium": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/medium_RackMultipart20190214-15847-o53zsg.jpg"
+        },
+        "medium_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/medium_square_RackMultipart20190214-15847-o53zsg.jpg"
+        }
+      },
+      "is_displayed": false,
+      "category_id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
+      "category": {
+        "id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
+        "name": "Amikom",
+        "description": "cekupdatedaridashboard asdas",
+        "created_at": "2019-01-28T10:52:57.062Z",
+        "creator": {
+          "id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
+          "email": "muhammadyusuf931@gmail.com",
+          "first_name": "M",
+          "last_name": "Yusuf",
+          "uid": "203",
+          "provider": "identitas",
+          "created_at": "2019-01-02T12:08:26.948Z",
+          "updated_at": "2019-02-15T08:25:24.210Z",
+          "scopes": null,
+          "deleted_at": null,
+          "avatar": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/aD3e0KK_460s.jpg",
+            "thumbnail": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_aD3e0KK_460s.jpg"
+            },
+            "thumbnail_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_square_aD3e0KK_460s.jpg"
+            },
+            "medium": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_aD3e0KK_460s.jpg"
+            },
+            "medium_square": {
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_square_aD3e0KK_460s.jpg"
+            }
+          },
+          "username": "yusuf",
+          "about": "Perkembangan",
+          "location": "Palembang",
+          "education": "Pendidikan",
+          "occupation": "Dosen",
+          "vote_preference": 2,
+          "full_name": "M Yusuf",
+          "political_party_id": null,
+          "invite_code": null,
+          "tmp_cluster_id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
+          "note": "Ditolak karena kurang ganteng"
+        }
+      },
+      "description": "d",
+      "members_count": 0,
+      "is_eligible": false,
+      "magic_link": "da77d5e8cb39",
+      "is_link_active": false,
+      "status": "requested",
+      "requester": {
+        "id": "92a39b93-59fd-49ba-a311-b15b86d644e6",
+        "full_name": "Ashar Mubasir"
+      },
+      "created_at": "2019-02-14T05:29:01.352Z"
+    }
+  }
+}

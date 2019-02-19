@@ -1,0 +1,52 @@
+{
+  "data": {
+    "clusters": [
+      {
+        "id": "e15d95a9-59e1-40ed-bbaa-31a8c39886e8",
+        "name": "tes",
+        "image": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/pantau-ios-23012019200444.jpg",
+          "thumbnail": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/thumbnail_pantau-ios-23012019200444.jpg"
+          },
+          "thumbnail_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/thumbnail_square_pantau-ios-23012019200444.jpg"
+          },
+          "medium": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/medium_pantau-ios-23012019200444.jpg"
+          },
+          "medium_square": {
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/e15d95a9-59e1-40ed-bbaa-31a8c39886e8/medium_square_pantau-ios-23012019200444.jpg"
+          }
+        },
+        "is_displayed": true,
+        "category_id": "f93336f2-e5f5-4e91-955b-b7cb58ada234",
+        "category": {
+          "id": "f93336f2-e5f5-4e91-955b-b7cb58ada234",
+          "name": "Hahaha",
+          "description": null,
+          "created_at": null,
+          "creator": null
+        },
+        "description": "Tes",
+        "members_count": 1,
+        "is_eligible": false,
+        "magic_link": "03a982b97acb",
+        "is_link_active": false,
+        "status": "approved",
+        "requester": {
+          "id": "bb6cb69e-0341-4977-a43e-ea4d5a3c07c8",
+          "full_name": "Ali Mustofa"
+        },
+        "created_at": "2019-01-23T13:04:45.555Z"
+      }
+    ],
+    "meta": {
+      "pages": {
+        "total": 59,
+        "per_page": 1,
+        "page": 1
+      }
+    }
+  }
+}
