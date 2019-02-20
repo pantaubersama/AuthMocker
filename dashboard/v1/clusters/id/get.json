@@ -1,80 +1,80 @@
 {
   "data": {
     "cluster": {
-      "id": "5e0efc97-c28c-4a3e-83b7-a3a76b32db38",
-      "name": "twice",
+      "id": "dd5467e6-f535-49c6-8b53-97fea48e828c",
+      "name": "test create dashboard",
       "image": {
-        "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/RackMultipart20190214-15847-o53zsg.jpg",
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/dd5467e6-f535-49c6-8b53-97fea48e828c/RackMultipart20190214-15847-awzd6a.jpg",
         "thumbnail": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/thumbnail_RackMultipart20190214-15847-o53zsg.jpg"
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/dd5467e6-f535-49c6-8b53-97fea48e828c/thumbnail_RackMultipart20190214-15847-awzd6a.jpg"
         },
         "thumbnail_square": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/thumbnail_square_RackMultipart20190214-15847-o53zsg.jpg"
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/dd5467e6-f535-49c6-8b53-97fea48e828c/thumbnail_square_RackMultipart20190214-15847-awzd6a.jpg"
         },
         "medium": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/medium_RackMultipart20190214-15847-o53zsg.jpg"
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/dd5467e6-f535-49c6-8b53-97fea48e828c/medium_RackMultipart20190214-15847-awzd6a.jpg"
         },
         "medium_square": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/5e0efc97-c28c-4a3e-83b7-a3a76b32db38/medium_square_RackMultipart20190214-15847-o53zsg.jpg"
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/cluster/image/dd5467e6-f535-49c6-8b53-97fea48e828c/medium_square_RackMultipart20190214-15847-awzd6a.jpg"
         }
       },
       "is_displayed": false,
-      "category_id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
+      "category_id": "7b0c808d-51bb-4ad1-a1d1-425afe524100",
       "category": {
-        "id": "d957bcb2-61ab-47c8-be0c-ae3a135c1472",
-        "name": "Amikom",
-        "description": "cekupdatedaridashboard asdas",
-        "created_at": "2019-01-28T10:52:57.062Z",
+        "id": "7b0c808d-51bb-4ad1-a1d1-425afe524100",
+        "name": "Universitas UNY",
+        "description": null,
+        "created_at": "2019-01-09T05:35:07.329Z",
         "creator": {
-          "id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
-          "email": "muhammadyusuf931@gmail.com",
-          "first_name": "M",
-          "last_name": "Yusuf",
-          "uid": "203",
+          "id": "e90ae078-f617-4a32-bcaa-0865041db0e6",
+          "email": "hanifsgy@gmail.com",
+          "first_name": "Hanif ",
+          "last_name": "Yakuza",
+          "uid": "89",
           "provider": "identitas",
-          "created_at": "2019-01-02T12:08:26.948Z",
-          "updated_at": "2019-02-15T08:25:24.210Z",
+          "created_at": "2018-12-20T16:54:13.391Z",
+          "updated_at": "2019-02-11T07:47:29.878Z",
           "scopes": null,
           "deleted_at": null,
           "avatar": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/aD3e0KK_460s.jpg",
+            "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e90ae078-f617-4a32-bcaa-0865041db0e6/pantau-ios-16012019125533.jpg",
             "thumbnail": {
-              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_aD3e0KK_460s.jpg"
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e90ae078-f617-4a32-bcaa-0865041db0e6/thumbnail_pantau-ios-16012019125533.jpg"
             },
             "thumbnail_square": {
-              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_square_aD3e0KK_460s.jpg"
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e90ae078-f617-4a32-bcaa-0865041db0e6/thumbnail_square_pantau-ios-16012019125533.jpg"
             },
             "medium": {
-              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_aD3e0KK_460s.jpg"
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e90ae078-f617-4a32-bcaa-0865041db0e6/medium_pantau-ios-16012019125533.jpg"
             },
             "medium_square": {
-              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_square_aD3e0KK_460s.jpg"
+              "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e90ae078-f617-4a32-bcaa-0865041db0e6/medium_square_pantau-ios-16012019125533.jpg"
             }
           },
-          "username": "yusuf",
-          "about": "Perkembangan",
-          "location": "Palembang",
-          "education": "Pendidikan",
-          "occupation": "Dosen",
-          "vote_preference": 2,
-          "full_name": "M Yusuf",
+          "username": "hanifsgy",
+          "about": "song hye s",
+          "location": "indoors",
+          "education": "SDSU’sssss",
+          "occupation": "petani tembakaussa",
+          "vote_preference": 3,
+          "full_name": "Hanif Sugiyanto",
           "political_party_id": null,
           "invite_code": null,
-          "tmp_cluster_id": "fd6e5012-e593-45b0-84b3-dfa9c7cba9aa",
-          "note": "Ditolak karena kurang ganteng"
+          "tmp_cluster_id": "1882f49d-9de4-4d56-b9f8-5444e494b3f3",
+          "note": null
         }
       },
-      "description": "d",
+      "description": "dashboard",
       "members_count": 0,
       "is_eligible": false,
-      "magic_link": "da77d5e8cb39",
+      "magic_link": "de84d2771692",
       "is_link_active": false,
       "status": "requested",
       "requester": {
         "id": "92a39b93-59fd-49ba-a311-b15b86d644e6",
         "full_name": "Ashar Mubasir"
       },
-      "created_at": "2019-02-14T05:29:01.352Z"
+      "created_at": "2019-02-14T05:27:33.729Z"
     }
   }
 }
