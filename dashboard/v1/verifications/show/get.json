@@ -1,103 +1,102 @@
 {
-    "data": [
-      {
-        "user_id": "d48f4247-8478-46ec-bf18-be8b31378b9e",
-        "ktp_number": "3401075904950451",
-        "ktp_selfie": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/83b53d3f-6b3e-41d3-9979-a96f1198a5da/pantau-ios-30012019151609.jpg",
-          "thumbnail": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/83b53d3f-6b3e-41d3-9979-a96f1198a5da/thumbnail_pantau-ios-30012019151609.jpg"
-          },
-          "thumbnail_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/83b53d3f-6b3e-41d3-9979-a96f1198a5da/thumbnail_square_pantau-ios-30012019151609.jpg"
-          },
-          "medium": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/83b53d3f-6b3e-41d3-9979-a96f1198a5da/medium_pantau-ios-30012019151609.jpg"
-          },
-          "medium_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/83b53d3f-6b3e-41d3-9979-a96f1198a5da/medium_square_pantau-ios-30012019151609.jpg"
-          }
-        },
-        "ktp_photo": {
-          "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/83b53d3f-6b3e-41d3-9979-a96f1198a5da/pantau-ios-30012019151707.jpg",
-          "thumbnail": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/83b53d3f-6b3e-41d3-9979-a96f1198a5da/thumbnail_pantau-ios-30012019151707.jpg"
-          },
-          "thumbnail_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/83b53d3f-6b3e-41d3-9979-a96f1198a5da/thumbnail_square_pantau-ios-30012019151707.jpg"
-          },
-          "medium": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/83b53d3f-6b3e-41d3-9979-a96f1198a5da/medium_pantau-ios-30012019151707.jpg"
-          },
-          "medium_square": {
-            "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/83b53d3f-6b3e-41d3-9979-a96f1198a5da/medium_square_pantau-ios-30012019151707.jpg"
-          }
-        },
-        "signature": {
-          "url": null,
-          "thumbnail": {
-            "url": null
-          },
-          "thumbnail_square": {
-            "url": null
-          },
-          "medium": {
-            "url": null
-          },
-          "medium_square": {
-            "url": null
-          }
-        },
-        "approved": false,
-        "step": 3,
-        "status": "requested",
-        "user": {
-          "id": "d48f4247-8478-46ec-bf18-be8b31378b9e",
-          "email": "bayudamar@extrainteger.com",
-          "full_name": "Sibay Bayu",
-          "uid": "327",
-          "provider": "identitas",
-          "avatar": {
-            "url": null,
-            "thumbnail": {
-              "url": null
-            },
-            "thumbnail_square": {
-              "url": null
-            },
-            "medium": {
-              "url": null
-            },
-            "medium_square": {
-              "url": null
-            }
-          },
-          "is_admin": true,
-          "is_moderator": false,
-          "cluster": null,
-          "vote_preference": null,
-          "political_party": null,
-          "verified": false,
-          "twitter": false,
-          "facebook": false,
-          "username": "Sibayu",
-          "about": "Kukuruyuk",
-          "location": "Jakarta",
-          "education": "Sarjana",
-          "occupation": "Desain",
-          "informant": {
-            "user_id": "d48f4247-8478-46ec-bf18-be8b31378b9e",
-            "identity_number": null,
-            "pob": null,
-            "dob": null,
-            "gender": null,
-            "gender_str": null,
-            "occupation": null,
-            "nationality": null,
-            "address": null,
-            "phone_number": null
-          }
-        }
+  "data": {
+    "user_id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
+    "ktp_number": null,
+    "ktp_selfie": {
+      "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/fcb418ee-46f0-48d7-8f29-213149861e91/camera.jpg",
+      "thumbnail": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_camera.jpg"
+      },
+      "thumbnail_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_square_camera.jpg"
+      },
+      "medium": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/fcb418ee-46f0-48d7-8f29-213149861e91/medium_camera.jpg"
+      },
+      "medium_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_selfie/fcb418ee-46f0-48d7-8f29-213149861e91/medium_square_camera.jpg"
       }
-    ]
+    },
+    "ktp_photo": {
+      "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/fcb418ee-46f0-48d7-8f29-213149861e91/camera.jpg",
+      "thumbnail": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_camera.jpg"
+      },
+      "thumbnail_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_square_camera.jpg"
+      },
+      "medium": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/fcb418ee-46f0-48d7-8f29-213149861e91/medium_camera.jpg"
+      },
+      "medium_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/ktp_photo/fcb418ee-46f0-48d7-8f29-213149861e91/medium_square_camera.jpg"
+      }
+    },
+    "signature": {
+      "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/signature/fcb418ee-46f0-48d7-8f29-213149861e91/camera.jpg",
+      "thumbnail": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/signature/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_camera.jpg"
+      },
+      "thumbnail_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/signature/fcb418ee-46f0-48d7-8f29-213149861e91/thumbnail_square_camera.jpg"
+      },
+      "medium": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/signature/fcb418ee-46f0-48d7-8f29-213149861e91/medium_camera.jpg"
+      },
+      "medium_square": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/verification/signature/fcb418ee-46f0-48d7-8f29-213149861e91/medium_square_camera.jpg"
+      }
+    },
+    "approved": true,
+    "step": null,
+    "status": "requested",
+    "note": "Ditolak karena kurang ganteng",
+    "user": {
+      "id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
+      "email": "muhammadyusuf931@gmail.com",
+      "full_name": "M Yusuf",
+      "username": "yusuf",
+      "uid": "203",
+      "provider": "identitas",
+      "avatar": {
+        "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/aD3e0KK_460s.jpg",
+        "thumbnail": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_aD3e0KK_460s.jpg"
+        },
+        "thumbnail_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/thumbnail_square_aD3e0KK_460s.jpg"
+        },
+        "medium": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_aD3e0KK_460s.jpg"
+        },
+        "medium_square": {
+          "url": "https://pantau-test.s3.amazonaws.com/uploads/user/avatar/e76b1aea-c642-4fdc-a672-bb7f551a9a29/medium_square_aD3e0KK_460s.jpg"
+        }
+      },
+      "is_admin": true,
+      "is_moderator": false,
+      "cluster": null,
+      "vote_preference": 2,
+      "political_party": null,
+      "verified": false,
+      "twitter": true,
+      "facebook": true,
+      "about": "Perkembangan",
+      "location": "Palembang",
+      "education": "Pendidikan",
+      "occupation": "Dosen",
+      "informant": {
+        "user_id": "e76b1aea-c642-4fdc-a672-bb7f551a9a29",
+        "identity_number": "9373783839",
+        "pob": "Palembang",
+        "dob": null,
+        "gender": 0,
+        "gender_str": "Perempuan",
+        "occupation": "",
+        "nationality": "",
+        "address": "alamat",
+        "phone_number": "08923948"
+      }
+    }
+  }
 }
